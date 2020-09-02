@@ -69,8 +69,10 @@ Run code
 - [DownLoad-m3u8](https://blog.csdn.net/nudt_spy/article/details/104487430/)
 - [解密ts文件](https://blog.csdn.net/a33445621/article/details/80377424)
 
-## 
-- 仅供学习研究
+## Tips
+- 只有试听或者已购买的可以下载，其他请求失败，跳出进程；
+- oss仅支持pdf上传
+- 仅供学习研究，禁止商业化行为
 ## License
 
 [MIT](/LICENSE)
