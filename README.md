@@ -8,8 +8,8 @@
 ---
 
 <div align="center">
-
-💥1元羊毛党不长久，下载下来才是学习之道；刚学python不久，上手一个项目玩玩，爬取拉勾教育的公开课，连同视频和文章PDF一块保存到本地；
+此仓库已过期，新的key已升级加密算法，不过代码逻辑可以参考
+<del>💥1元羊毛党不长久，下载下来才是学习之道；刚学python不久，上手一个项目玩玩，爬取拉勾教育的公开课，连同视频和文章PDF一块保存到本地；<del>
 
 <a href="/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="GitHub license" /></a>
 <a href="https://travis-ci.org/alibaba/ice"><img src="https://api.travis-ci.org/maleweb/PyLagou.svg?branch=master" alt="Build Status" /></a>
