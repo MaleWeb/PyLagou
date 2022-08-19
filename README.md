@@ -23,9 +23,6 @@
 <div align="center">
   <img src="./assets/images/code-2.png" width="1000" />
 </div>
-<div align="center">
-  <img src="./assets/images/mp5.gif" width="1000" />
-</div>
 </div>
 
 ## Features
